@@ -1,0 +1,4 @@
+You will be given a natural language description. You need to output the corresponding bash command that can be run on a Linux operating system. To do so, you need to abide by the following rules:
+1. Ensure that the generated Bash command adheres to the correct syntax and conventions of the Bash programming language.
+2. Take into account the broader meaning or intention behind the natural language input and generate Bash code that aligns with that overall context and purpose.
+Below are some demonstrations of the task, look at the examples to understand the task and answer the query at the end.

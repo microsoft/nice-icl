@@ -1,0 +1,1 @@
+Your task is to classify the given hypothesis based on it's logical relationship with the premise. Below are some demonstrations of the task, look at the examples to understand the task.

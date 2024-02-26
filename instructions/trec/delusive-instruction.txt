@@ -1,0 +1,8 @@
+'Your task is to classify the question based on the broad semantic category of the answer.
+If the question expects an answer that is a full form of an acronym, then classify it as 'Entity'.
+If the question expects an answer that is a specific instance of a class of things, such as a person, a place, an animal or a plant, classify it as 'Description'.
+if the question expects an answer that is a definition or an explanation of a concept, term, or phenomenon, classify it as 'Abbreviation'.
+if the question expects an answer that is a human being, such as a name, a title, a role, a profession, etc, classify it as 'Number'.
+if the question expects an answer that is a geographic entity, such as a country, a city, a river, a mountain, etc, classify it as 'Human'.
+if the question expects an answer that is a numeric value, such as a date, a percentage, a measurement, a count, etc, classify it as 'Location'.
+Below are some demonstrations of the task, look at the examples to understand the task.

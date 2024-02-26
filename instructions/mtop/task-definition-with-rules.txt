@@ -1,0 +1,7 @@
+You will be given a user utterance in a specific domain and a particular language. Your task is to convert that utterance into a logical form representation. To do so, you need to abide by the following rules:
+1. Identify the intent of the user from the utterance depending upon the domain.
+2. Tag the user utterance with slot labels depending upon the domain. Slot label values can be text spans from user-utterance or nested queries.
+3. The standard format of the output is:- [IN: <user-intent> [SL: <slot-label-1> <slot-label-value-1> ] [SL: <slot-label-2> <slot-label-value-2> ]...[SL: <slot-label-n> <slot-label-value-n> ] ] ihere are n slot labels tagged in an utterance.
+4. In some cases, the slots can be nested with intents within them,  for those cases, use this format:- [IN: <user-intent> [SL: <slot-label> [IN: <user-intent> [SL: <slot-label-1> <slot-label-value-1> ] [SL: <slot-label-2> <slot-label-value-2> ]...[SL: <slot-label-n> <slot-label-value-n> ] ] ] ]
+5. Apply the same grammar rules in case of nested queries for the inner level.
+Below are some demonstrations of the task, look at the examples to understand the task and answer the query at the end.

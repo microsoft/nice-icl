@@ -1,0 +1,1 @@
+You will be given a natural language description. You need to output the corresponding bash command that can be run on a Linux operating system. Below are some demonstrations of the task, look at the examples to understand the task and answer the query at the end.

@@ -1,0 +1,1 @@
+Your task is to classify the given movie review based on the sentiment expressed, into "positive" or "negative". Below are some demonstrations of the task, look at the examples to understand the task.
