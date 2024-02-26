@@ -1,0 +1,5 @@
+Your task is to classify the given hypothesis based on it's logical relationship with the premise.
+If the hypothesis is a direct restatement or logically follows from the premise, classify it as an 'entailment'.
+If the hypothesis directly contradicts or negates the premise, classify it as a 'contradiction'.
+If the hypothesis neither restates nor contradicts the premise, and does not have a clear logical connection to the premise, classify it as 'neutral'.
+Below are some demonstrations of the task, look at the examples to understand the task.
