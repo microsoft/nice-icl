@@ -49,7 +49,7 @@ nltk==3.8.1
 numpy==1.26.2
 openai==0.28.1
 optimum==1.16.1
-orjson==3.9.10
+orjson==3.9.15
 pandas==2.1.4
 preshed==3.0.9
 progressbar==2.5
