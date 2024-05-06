@@ -17,7 +17,7 @@ httptools==0.6.1
 httpx==0.26.0
 huggingface-hub==0.20.1
 humanfriendly==10.0
-idna==2.10
+idna==3.7
 ipykernel==6.4.0
 ipython==8.2.0
 ipython-genutils==0.2.0
