@@ -6,7 +6,7 @@ click==8.1.7
 datasets==2.16.0
 edit-distance==1.0.6
 einops==0.7.0
-fastapi==0.108.0
+fastapi==0.109.1
 fastjsonschema==2.19.1
 fonttools==4.47.0
 frozenlist==1.4.1
