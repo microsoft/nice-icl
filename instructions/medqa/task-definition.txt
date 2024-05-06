@@ -1,0 +1,1 @@
+You will be provided with the symptoms of a person along with four options. Your task is to select one option from the given choices to predict the ailment the person is suffering from. Below are some demonstrations of the task, look at the examples to understand the task and answer the query at the end.

@@ -1,0 +1,1 @@
+You will be given a user utterance in a specific domain and a particular language. Your task is to convert that utterance into a logical form representation. Below are some demonstrations of the task, look at the examples to understand the task and answer the query at the end.

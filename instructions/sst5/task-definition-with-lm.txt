@@ -1,0 +1,7 @@
+Your task is to classify the given movie review based on the sentiment expressed.
+If the sentiment expressed is highly negative or strongly unfavorable, then classify it as "very negative".
+If the sentiment expressed is pessimistic or unfavorable, then classify it as "negative".
+if the sentiment expressed is not biased towards either a favorable or unfavorable opinion, then classify it as "neutral".
+If the sentiment expressed is optimistic or favorable, then classify it as "positive".
+If the sentiment expressed is highly positive or strongly favorable, then classify it as "very positive".
+Below are some demonstrations of the task, look at the examples to understand the task.

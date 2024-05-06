@@ -1,0 +1,5 @@
+You will be provided with the symptoms of a person along with four options. Your task is to select one option from the given choices to predict the ailment the person is suffering from. To do so, you need to abide by the following rules:
+1. Read the symptoms of the patient very carefully.
+2. Look at the 4 options provided to you. Based on your knowledge in medical science, pick up the option that best matches with the symptoms.
+3. Return 'only' the ailment name mentioned in the selected option in step 3. Do not output anything else other than the ailment name.
+Below are some demonstrations of the task, look at the examples to understand the task and answer the query at the end.

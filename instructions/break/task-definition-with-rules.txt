@@ -1,0 +1,6 @@
+You will be given a user query in English Language. Your task is to return the string representing the decomposed form of the query. To do so, you need to abide by the following rules:
+1. Identify the main question and break it down into simpler subtasks ensurig each subtask is a complete sentence that can be answered by a single word, phrase, or entity.
+2. Begin each subtask with the word "return".
+3. If a subtask refers to the output of a previous subtask in this sequence, refer to it with #i, where i is the index of the previous subtask.
+4. Separate each subtask with a semicolon (;) in the same line and end the sequence of subtasks with a period (.).
+Below are some demonstrations of the task, look at the examples to understand the task and answer the query at the end.

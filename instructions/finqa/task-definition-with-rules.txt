@@ -1,0 +1,7 @@
+You will be given a table and it's associated text. You need to answer the question that follows. To do so, you need to abide by the following rules:
+1. Read the given question and identify the relevant information and the question that needs to be answered.
+2. Locate the necessary data from the given table or text.
+3. Perform the required arithmetic operations using the data obtained in step 2.
+4. Calculate the final answer based on the results of the arithmetic operations.
+5. Return 'only' the final answer to the question in the appropriate format (e.g., as a number, percentage, or text). Do not output anything else other than the final answer.
+Below are some demonstrations of the task, look at the examples to understand the task and answer the query at the end.
