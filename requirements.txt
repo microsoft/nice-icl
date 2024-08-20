@@ -45,7 +45,7 @@ nbformat==5.9.2
 nest-asyncio==1.5.1
 networkx==2.7
 ninja==1.11.1.1
-nltk==3.8.1
+nltk==3.9
 numpy==1.26.2
 openai==0.28.1
 optimum==1.16.1
