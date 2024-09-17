@@ -87,4 +87,4 @@ tokenizers==0.15.0
 torch==2.0.1
 tqdm==4.66.3
 transformers==4.38.0
-vllm==0.2.1
+vllm==0.5.5
